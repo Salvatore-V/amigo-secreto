@@ -6,9 +6,9 @@ Aplicação web desenvolvida durante os cursos de lógica de programação da Al
 
 ## 🚀 Tecnologias Utilizadas
 
-* **HTML5**[cite: 2]
-* **CSS3**[cite: 2]
-* **JavaScript (Vanilla)**[cite: 2]
+* **HTML5**
+* **CSS3**
+* **JavaScript (Vanilla)**
 
 ---
 
